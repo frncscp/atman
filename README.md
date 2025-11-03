@@ -1,0 +1,18 @@
+## design
+
+- NixOS (operating system, allows declarative configuration)
+- i3wm (tiling window manager, stable for NVIDIA cards)
+- home manager (user config management)
+- vicinae (menu)
+- ghostty (terminal emulator)
+- zen browser (vertical tab browser)
+- zed (code editor)
+- lazyvim (text editor)
+- docker (containerization)
+- yazi (file manager)
+- feh (wallpaper)
+- picom (compositor)
+- xclip (clipboard)
+- ly (login screen)
+- i3blocks (status bar)
+- dunst (notifications)
